@@ -1,2 +1,3 @@
 /predict_cooking_time/.ipynb_checkpoints
-/data
+/predict_cooking_time/data/scraped_recipes_full.json
+/predict_cooking_time/data/recipe_collection.csv
